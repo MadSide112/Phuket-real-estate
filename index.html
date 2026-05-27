@@ -518,7 +518,7 @@ var PROJECTS=[];
 var currentFilter='all';
 
 // Загрузка объектов из JSON
-fetch('data/projects.json')
+fetch('data/projects.json?v=' + Date.now())
   .then(function(r){return r.json()})
   .then(function(data){PROJECTS=data;renderCatalog()})
   .catch(function(e){console.error('Ошибка загрузки projects.json:',e);renderCatalog()});
