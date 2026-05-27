@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Bang Tao Residence",
+    "loc": "Bang Tao / Laguna",
+    "type": "Кондоминиум",
+    "cats": ["condo", "investment", "life"],
+    "price": "от $145 000",
+    "area": "от 34 м²",
+    "done": "Q4 2026",
+    "own": "Freehold",
+    "desc": "Современный кондо в одной из лучших локаций Пхукета. Подходит для жизни, отдыха и сдачи в аренду.",
+    "tags": ["800 м до пляжа", "Бассейн", "Фитнес", "Управление арендой"],
+    "img": "images/objects/bang-tao-residence.jpg"
+  },
+  {
+    "name": "Kamala Bay View",
+    "loc": "Kamala",
+    "type": "Апартаменты",
+    "cats": ["condo", "investment"],
+    "price": "от $115 000",
+    "area": "от 28 м²",
+    "done": "Q3 2025",
+    "own": "Freehold",
+    "desc": "Камала — спокойная локация с активным ростом. Хороший выбор для инвестиций с горизонтом 3–5 лет.",
+    "tags": ["Туристический спрос", "Управляющая компания", "Растущий район"],
+    "img": "images/objects/kamala-bay-view.jpg"
+  },
+  {
+    "name": "Rawai Private Pool Villa",
+    "loc": "Rawai / Nai Harn",
+    "type": "Вилла",
+    "cats": ["villa", "life"],
+    "price": "от $380 000",
+    "area": "от 220 м²",
+    "done": "Готова",
+    "own": "Leasehold",
+    "desc": "Приватная вилла на юге острова. Рядом школы, рестораны и пляжи. Для семьи и постоянного проживания.",
+    "tags": ["Частный бассейн", "Семейный район", "Готова к заселению", "Тихое место"],
+    "img": "images/objects/rawai-villa.jpg"
+  },
+  {
+    "name": "Cherng Talay Premium",
+    "loc": "Cherng Talay",
+    "type": "Кондоминиум",
+    "cats": ["condo", "investment", "life"],
+    "price": "от $160 000",
+    "area": "от 40 м²",
+    "done": "Q2 2026",
+    "own": "Freehold",
+    "desc": "Локация для тех, кто хочет совместить комфорт, инфраструктуру и потенциал роста стоимости.",
+    "tags": ["Экспаты", "Инфраструктура рядом", "Ликвидность"],
+    "img": "images/objects/cherng-talay-premium.jpg"
+  },
+  {
+    "name": "Patong Investment Studio",
+    "loc": "Patong",
+    "type": "Апарт-отель",
+    "cats": ["condo", "investment"],
+    "price": "от $130 000",
+    "area": "от 25 м²",
+    "done": "Q1 2025",
+    "own": "Freehold",
+    "desc": "Патонг — туристический центр острова. Максимальный поток гостей и высокая заполняемость круглый год.",
+    "tags": ["Туристический поток", "Краткосрочная аренда", "Управление"],
+    "img": "images/objects/patong-studio.jpg"
+  },
+  {
+    "name": "Layan Luxury Villa",
+    "loc": "Layan / Bang Tao",
+    "type": "Вилла",
+    "cats": ["villa", "life", "premium"],
+    "price": "от $620 000",
+    "area": "от 350 м²",
+    "done": "Готова",
+    "own": "Company",
+    "desc": "Премиальная вилла в самой престижной части острова. Архитектура, приватность и долгосрочная ценность актива.",
+    "tags": ["Премиум", "Приватность", "Статусная локация", "4 спальни"],
+    "img": "images/objects/layan-luxury-villa.jpg"
+  }
+]
