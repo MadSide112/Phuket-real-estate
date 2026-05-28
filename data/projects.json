@@ -65,17 +65,17 @@
     "img": "images/objects/patong-studio.jpg"
   },
     {
-    "name": "тест1",
-    "loc": "локация",
+    "name": "The Title Biancana",
+    "loc": "Surin Beach",
     "type": "Кондоминиум",
     "cats": ["condo", "investment"],
-    "price": "от $10 000",
-    "area": "от 42 м²",
-    "done": "Q4 2028",
-    "own": "Freehold",
-    "desc": "Патонг — туристический центр острова. Максимальный поток гостей и высокая заполняемость круглый год.",
-    "tags": ["1", "2", "3"],
-    "img": "images/objects/dostavka_rf.JPEG"
+    "price": "от $195 000",
+    "area": "от 31 м²",
+    "done": "Q1 2028",
+    "own": "Freehold" "Leasehold",
+    "desc": "Сурин — один из лучших  тихих пляжей острова. Современный жилой комплекс премиум-класса.",
+    "tags": ["Туристический поток", "Краткосрочная аренда", "Управление", "Статусная локация"],
+    "img": "images/objects/biancana The Cascade Pool 001.jpeg"
   },
   {
     "name": "Layan Luxury Villa",
