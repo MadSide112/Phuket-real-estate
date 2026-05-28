@@ -13,6 +13,19 @@
     "img": "images/objects/bang-tao-residence.jpg"
   },
   {
+    "name": "ORIGIN RESIDENCES BANGTAO",
+    "loc": "Bang Tao",
+    "type": "Кондоминиум",
+    "cats": ["condo", "investment", "life"],
+    "price": "от $155 000",
+    "area": "от 40 м²",
+    "done": "Q1 2028",
+    "own": "Freehold",
+    "desc": "Современный кондо в одной из лучших локаций Пхукета. Подходит для жизни, отдыха и сдачи в аренду.",
+    "tags": ["Лагуна Пхукет", "Боут Авеню", "Порто де Пхукет", "Управление арендой"],
+    "img": "images/objects/images.jpeg"
+  },
+  {
     "name": "Kamala Bay View",
     "loc": "Kamala",
     "type": "Апартаменты",
