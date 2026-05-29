@@ -1,5 +1,18 @@
 [
   {
+  "name": "Sun Hills Layan Phuket",
+  "loc": "Bang Tao / Layan",
+  "type": "Кондоминиум",
+  "cats": ["condo", "investment", "life"],
+  "price": "от $123 000",
+  "area": "от 27 м²",
+  "done": "Q4 2027",
+  "own": ["Leasehold"],
+  "desc": "Одна из лучших локаций Пхукета. Идеально для отдыха и сдачи в аренду.",
+  "tags": ["Khabib Gym", "Бассейн", "Ресторан", "Управление арендой"],
+  "img": "images/objects/Sunhill.jpeg"
+  },
+  {
     "name": "Bang Tao Residence",
     "loc": "Bang Tao / Laguna",
     "type": "Кондоминиум",
