@@ -13,6 +13,20 @@
   "img": "images/objects/Sunhill.jpeg"
   },
   {
+  "name": "The Title Balcony",
+  "slug": "the-title-balcony",
+  "loc": "Nai Thon Beach",
+  "type": "Кондоминиум",
+  "cats": ["condo", "investment", "life"],
+  "price": "от $176 000",
+  "area": "от 33 м²",
+  "done": "Q4 2027",
+  "own": ["Leasehold"],
+  "desc": "The Title Balcony расположен на одном из самых тихих и красивых пляжей Пхукета — Най Тон. Премиальная локация, окружённая природой и национальным парком Сиринат. Отличный выбор для спокойного отдыха и долгосрочных инвестиций.",
+  "tags": ["Тихий пляж", "Премиальная локация", "Национальный парк", "Управление арендой"],
+  "img": "images/objects/the-title-balcony-main.jpeg"
+}
+  {
     "name": "Bang Tao Residence",
     "loc": "Bang Tao / Laguna",
     "type": "Кондоминиум",
