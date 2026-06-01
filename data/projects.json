@@ -1,5 +1,5 @@
 [
-  {
+{
   "name": "Sun Hills Layan",
   "slug": "sun-hills-layan",
   "loc": "Layan",
@@ -13,7 +13,7 @@
   "status": "off-plan",
   "own": ["Leasehold"],
   "developer": "Sun Hills",
-  "bedrooms": ["Studio", "1"],
+  "bedrooms": ["studio", "1", "2"],
   "desc": "Современный кондоминиум в спокойном районе Лаян. Отличное сочетание доступной цены, хорошего качества и близости к Bang Tao. Привлекательный вариант для инвестиций и комфортного проживания.",
   "tags": ["Низкая цена входа", "Рядом с Bang Tao", "Khabib Gym", "Управление арендой"],
   "img": "images/objects/sun-hills-layan-main.jpeg",
