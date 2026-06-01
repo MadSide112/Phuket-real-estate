@@ -1,16 +1,23 @@
 [
   {
-  "name": "Sun Hills Layan Phuket",
-  "loc": "Bang Tao / Layan",
-  "type": "Кондоминиум",
-  "cats": ["condo", "investment", "life"],
-  "price": "от $123 000",
-  "area": "от 27 м²",
-  "done": "Q4 2027",
-  "own": ["Leasehold"],
-  "desc": "Одна из лучших локаций Пхукета. Идеально для отдыха и сдачи в аренду.",
-  "tags": ["Khabib Gym", "Бассейн", "Ресторан", "Управление арендой"],
-  "img": "images/objects/Sunhill.jpeg"
+    "name": "Sun Hills Layan",
+    "slug": "sun-hills-layan",
+    "loc": "Layan",
+    "type": "Кондоминиум",
+    "cats": ["condo", "investment", "life"],
+    "price": "от $123 000",
+    "priceFrom": 123000,
+    "area": "от 27 м²",
+    "areaFrom": 27,
+    "done": "Q4 2027",
+    "status": "off-plan",
+    "own": ["Leasehold"],
+    "developer": "Sun Hills",
+    "bedrooms": ["Studio", "1"],
+    "desc": ["Современный кондоминиум в спокойном районе Лаян. Отличное сочетание цены, качества и близости к Bang Tao. Хороший выбор для инвестиций и личного проживания"],
+    "tags": ["Низкая цена входа", "Рядом с Bang Tao", "Khabib Gym", "Управление арендой"],
+    "img": "images/objects/sun-hills-layan-main.jpeg",
+    "features": ["Бассейн", "Фитнес-зал", "Ресторан", "Управляющая компания"]
   },
   {
   "name": "The Title Balcony",
@@ -129,5 +136,18 @@
     "desc": "Премиальная вилла в самой престижной части острова. Архитектура, приватность и долгосрочная ценность актива.",
     "tags": ["Премиум", "Приватность", "Статусная локация", "4 спальни"],
     "img": "images/objects/layan-luxury-villa.jpg"
-  }
+  },
+  {
+    "name": "The base bukit",
+    "loc": "Phuket old town",
+    "type": "Кондоминимум",
+    "cats": ["condo", "investment"],
+    "price": "от $92 500",
+    "area": "от 25 м²",
+    "done": "Готова",
+    "own": "Freehold", "Leasehold",
+    "desc": "Премиальная вилла в самой престижной части острова. Архитектура, приватность и долгосрочная ценность актива.",
+    "tags": ["Премиум", "Приватность", "Статусная локация", "4 спальни"],
+    "img": "images/objects/layan-luxury-villa.jpg"
+  },
 ]
