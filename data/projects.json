@@ -226,5 +226,24 @@
     "tags": ["Старый город", "Инвестиции", "Управление арендой", "Готовый объект"],
     "img": "images/objects/base.jpeg",
     "features": ["Бассейн", "Фитнес", "Лобби", "Коворкинг"]
+  },
+  {
+    "name": "The Base rise",
+    "slug": "the-base-rise",
+    "loc": "Kathu",
+    "type": "Кондоминиум",
+    "cats": ["condo", "investment"],
+    "price": "от $89 500",
+    "priceFrom": 89500,
+    "area": "от 25 м²",
+    "areaFrom": 25,
+    "done": "Готова",
+    "status": "ready",
+    "own": ["Freehold", "Leasehold"],
+    "bedrooms": ["studio", "1", "2"],
+    "desc": "Современный кондоминиум в историческом центре Пхукета. Отличный вариант для инвестиций и сдачи в аренду.",
+    "tags": ["Старый город", "Инвестиции", "Управление арендой", "Готовый объект"],
+    "img": "images/objects/BASEPOOLGARDEN.jpeg",
+    "features": ["Бассейн", "Фитнес", "Лобби", "Коворкинг"]
   }
 ]
