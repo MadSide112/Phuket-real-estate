@@ -20,7 +20,7 @@
   },
   {
     "name": "The Title Balcony",
-    "slug": "the-title-balcony",
+    "slug": "NEXT POINT CONDOMINIUM",
     "loc": "Nai Thon Beach",
     "type": "Кондоминиум",
     "cats": ["condo", "investment", "life"],
@@ -37,6 +37,25 @@
     "img": "images/objects/BALCONAPART.jpeg",
     "features": ["Бассейн", "Фитнес-зал", "Ресторан", "Управляющая компания"]
   },
+  {
+  "name": "NEXT POINT",
+  "slug": "next-point",
+  "loc": "Rawai",
+  "type": "Кондоминиум",
+  "cats": ["condo", "investment", "life"],
+  "price": "от $128 000",
+  "priceFrom": 128000,
+  "area": "от 35 м²",
+  "areaFrom": 35,
+  "done": "Q4 2028",
+  "status": "off-plan",
+  "own": ["Leasehold"],
+  "bedrooms": ["studio", "1", "2"],
+  "desc": "Современный кондоминиум в районе Раваи. Удобное расположение, развитая инфраструктура и хороший потенциал для сдачи в аренду. Разрешено проживание с домашними животными.",
+  "tags": ["Раваи", "Инфраструктура", "Управление арендой", "Инвестиции", "Pet friendly"],
+  "img": "images/objects/NEXT.png",
+  "features": ["Бассейн", "Фитнес-зал", "Ресторан", "Управляющая компания", "Разрешено с животными"]
+},
   {
     "name": "Bang Tao Residence",
     "slug": "bang-tao-residence",
