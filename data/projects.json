@@ -20,7 +20,7 @@
   },
   {
     "name": "The Title Balcony",
-    "slug": "NEXT POINT CONDOMINIUM",
+    "slug": "The-Title-Balcony",
     "loc": "Nai Thon Beach",
     "type": "Кондоминиум",
     "cats": ["condo", "investment", "life"],
@@ -38,7 +38,7 @@
     "features": ["Бассейн", "Фитнес-зал", "Ресторан", "Управляющая компания"]
   },
   {
-  "name": "NEXT POINT",
+  "name": "Next Point",
   "slug": "next-point",
   "loc": "Rawai",
   "type": "Кондоминиум",
@@ -76,7 +76,7 @@
     "features": ["Бассейн", "Фитнес", "Коворкинг", "Охрана 24/7"]
   },
   {
-    "name": "ORIGIN RESIDENCES BANGTAO",
+    "name": "Origin Residences Bangtao",
     "slug": "origin-residences-bangtao",
     "loc": "Bang Tao",
     "type": "Кондоминиум",
