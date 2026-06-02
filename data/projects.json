@@ -19,6 +19,25 @@
     "features": ["Бассейн", "Фитнес-зал", "Ресторан", "Управляющая компания"]
   },
   {
+  "name": "The Title Coralina",
+  "slug": "the-title-coralina",
+  "loc": "Kamala",
+  "type": "Кондоминиум",
+  "cats": ["condo", "investment", "life"],
+  "price": "от $162 000",
+  "priceFrom": 162000,
+  "area": "от 30 м²",
+  "areaFrom": 30,
+  "done": "Q2 2028",
+  "status": "off-plan",
+  "own": ["Freehold", "Leasehold"],
+  "bedrooms": ["studio", "1", "2"],
+  "desc": "Премиальный кондоминиум в районе Камала. Тихая локация у национального парка с высоким потенциалом роста стоимости. Отличный выбор для отдыха и инвестиций. Разрешено проживание с домашними животными.",
+  "tags": ["Камала", "Тихий пляж", "Премиальная локация", "Национальный парк", "Управление арендой", "Pet friendly"],
+  "img": "images/objects/CORALINA.jpeg",
+  "features": ["Бассейн", "Фитнес-зал", "Ресторан", "Управляющая компания", "Разрешено с животными"]
+  },
+  {
     "name": "The Title Balcony",
     "slug": "The-Title-Balcony",
     "loc": "Nai Thon Beach",
