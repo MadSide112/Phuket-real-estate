@@ -38,6 +38,25 @@
   "features": ["Бассейн", "Фитнес-зал", "Ресторан", "Управляющая компания", "Разрешено с животными"]
   },
   {
+  "name": "Hennessy Residence",
+  "slug": "hennessy-residence",
+  "loc": "Karon",
+  "type": "Кондоминиум",
+  "cats": ["condo", "investment", "life"],
+  "price": "от $273 000",
+  "priceFrom": 273000,
+  "area": "от 46 м²",
+  "areaFrom": 46,
+  "done": "Q4 2026",
+  "status": "off-plan",
+  "own": ["Leasehold"],
+  "bedrooms": ["studio", "1"],
+  "desc": "Современный кондоминиум в районе Карон, одной из популярных туристических локаций Пхукета. Подходит для отдыха, личного проживания и инвестиций в аренду.",
+  "tags": ["Карон", "Туристический спрос", "Пляж рядом", "Управление арендой"],
+  "img": "images/objects/HENNESSYRESIDENCE.jpeg",
+  "features": ["Бассейн", "Фитнес-зал", "Ресторан", "Управляющая компания"]
+},
+  {
     "name": "The Title Balcony",
     "slug": "The-Title-Balcony",
     "loc": "Nai Thon Beach",
