@@ -207,7 +207,26 @@
     "tags": ["Экспаты", "Инфраструктура рядом", "Ликвидность"],
     "img": "images/objects/cherng-talay-premium.jpg",
     "features": ["Бассейн", "Фитнес", "Лобби", "Охрана 24/7"]
-  },
+  }, 
+  {
+  "name": "Andaman City Atrium",
+  "slug": "andaman-city-atrium",
+  "loc": "Bang Tao",
+  "type": "Кондоминиум",
+  "cats": ["condo", "investment", "life"],
+  "price": "от $187 000",
+  "priceFrom": 187000,
+  "area": "от 36 м²",
+  "areaFrom": 36,
+  "done": "Q4 2026",
+  "status": "off-plan",
+  "own": ["Freehold"],
+  "bedrooms": ["1", "2", "3"],
+  "desc": "Современный кондоминиум в районе Bang Tao с развитой инфраструктурой, высоким спросом на аренду и хорошим потенциалом роста стоимости.",
+  "tags": ["Bang Tao", "Инфраструктура рядом", "Ликвидность", "Инвестиции"],
+  "img": "images/objects/AndamanCity.jpeg",
+  "features": ["Бассейн", "Фитнес", "Лобби", "Охрана 24/7"]
+},
   {
     "name": "Patong Investment Studio",
     "slug": "patong-investment-studio",
