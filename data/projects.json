@@ -133,6 +133,25 @@
     "features": ["Бассейн", "Фитнес", "Коворкинг", "Лобби"]
   },
   {
+  "name": "Origin Kathu-Patong",
+  "slug": "origin-kathu-patong",
+  "loc": "Kathu / Patong",
+  "type": "Кондоминиум",
+  "cats": ["condo", "investment", "life"],
+  "price": "от $91 000",
+  "priceFrom": 91000,
+  "area": "от 25 м²",
+  "areaFrom": 25,
+  "done": "Q1 2026",
+  "status": "off-plan",
+  "own": ["Freehold"],
+  "bedrooms": ["1", "2"],
+  "desc": "Современный кондоминиум в районе Kathu с удобным выездом в сторону Patong и Phuket Town. Подходит для проживания, отдыха и инвестиций в аренду.",
+  "tags": ["Kathu", "Рядом с Patong", "Инфраструктура рядом", "Управление арендой"],
+  "img": "images/objects/OriginKathuPatong.jpeg",
+  "features": ["Бассейн", "Фитнес", "Коворкинг", "Лобби"]
+},
+  {
     "name": "Kamala Bay View",
     "slug": "kamala-bay-view",
     "loc": "Kamala",
